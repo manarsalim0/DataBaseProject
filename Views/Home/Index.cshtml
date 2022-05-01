@@ -1,0 +1,292 @@
+﻿@model ResourcesBankNew.Models.selecitListModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-2 form-group">
+            <select class="form-control" id="facultyId">
+                <option selected>Select Faculty</option>
+                @foreach (var Faculty in Model.engFaculties)
+                {
+
+                    <option value="@Faculty.FacultyId">@Faculty.FacultyName</option>
+                }
+            </select>
+        </div>
+        <div class="col-sm-2 form-group">
+            <select class="form-control" id="majorId">
+                <option value=" ">Select Major</option>
+                @foreach (var major in Model.major)
+                {
+
+                }
+            </select>
+        </div>
+
+        <div class="col-sm-2 form-group">
+            <select class="form-control" id="levelId">
+                <option value=" ">Select Level</option>
+                @foreach (var level in Model.level)
+                {
+
+                }
+            </select>
+        </div>
+        <div class="col-sm-2 form-group">
+            <select class="form-control" id="CourseId">
+                <option value=" ">Select Course</option>
+                @foreach (var Course in Model.courses)
+                {
+
+                }
+            </select>
+        </div>
+
+    </div>
+    <div id="linkFolder"></div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        //GetMajorByFacultyId();
+        //GetLevelByMajorId();
+        //GetCourseByLevelId();
+
+    })
+    $("#facultyId").change(function () {
+        GetMajorByFacultyId();
+        //GetLevelByMajorId();
+        //GetCourseByLevelId();
+        /*Getlinke();*/
+    });
+    var GetMajorByFacultyId = function () {
+         $.ajax({
+             url: '@Url.Action("GetMajorByFacultyId", "Home")',
+
+
+            type: 'GET',
+             data: {
+                 Id: $('#facultyId').val(),
+
+            },
+             success:function (data) {
+                 $('#majorId').find('option').remove()
+                 $('#majorId').append('<option selected value=" ">Select Major</option>')
+                 $('#levelId').find('option').remove()
+                 $('#levelId').append('<option selected value=" ">Select Level</option>')
+                 $('#CourseId').find('option').remove()
+                 $('#CourseId').append('<option selected value=" ">Select Course</option>')
+                 $('#linkFolder').html("")
+                $.each(data,
+                    function (index, item) {
+                        $('#majorId').append('<option value="' + item.majorId + '">' + item.name + '</option>')
+                        //$('#levelId').append('<option selected value=" ">Select Level</option>')
+                        //$('#CourseId').append('<option selected value=" ">Select Course</option>')
+                    });
+
+            },
+            error: function () {
+            }
+           });
+    }
+    $("#majorId").change(function () {
+        GetLevelByMajorId();
+        /*GetCourseByLevelId();*/
+        /*Getlinke();*/
+    });
+    var GetLevelByMajorId = function () {
+         $.ajax({
+             url: '@Url.Action("GetLevelByMajorId", "Home")',
+
+
+            type: 'GET',
+             data: {
+                 Id: $('#majorId').val(),
+
+            },
+             success:function (data) {
+                 $('#levelId').find('option').remove()
+                 $('#levelId').append('<option selected value=" ">Select Level</option>')
+                 $('#CourseId').find('option').remove()
+                 $('#CourseId').append('<option selected value=" ">Select Course</option>')
+                 $('#linkFolder').html("")
+                $.each(data,
+                    function (index, item) {
+                        $('#levelId').append('<option value="' + item.levelId + '">' + " TakenYear " + item.takenYear + " TermNum " + item.termNum + '</option>')
+                        /*$('#CourseId').append('<option selected value=" ">Select Course</option>')*/
+                    });
+
+            },
+            error: function () {
+            }
+           });
+    }
+    $("#levelId").change(function () {
+        GetCourseByLevelId();
+        /*Getlinke();*/
+    });
+    var GetCourseByLevelId = function () {
+         $.ajax({
+             url: '@Url.Action("GetCourseByLevelId", "Home")',
+
+
+            type: 'GET',
+             data: {
+                 Id: $('#levelId').val(),
+
+            },
+             success:function (data) {
+                 $('#CourseId').find('option').remove()
+                 $('#CourseId').append('<option selected value=" ">Select Course</option>')
+                 $('#linkFolder').html("")
+                $.each(data,
+                    function (index, item) {
+                        $('#CourseId').append('<option value="' + item.courseId + '">' + item.courseName+'</option>')
+                        //$('#linkFolder').att("href", item.FolderLink)
+
+                    });
+
+
+            },
+            error: function () {
+            }
+           });
+    }
+     $("#CourseId").change(function () {
+         Getlinke();
+    });
+    var Getlinke = function () {
+         $.ajax({
+             url: '@Url.Action("Getlinke", "Home")',
+
+
+            type: 'GET',
+             data: {
+                 Id: $('#CourseId').val(),
+
+             }, success: function (data) {
+
+
+                 $('#linkFolder').append('<a href="' + data.folderLink + '">' + data.folderLink + '</a>')
+
+             },
+         error: function () {
+         }
+        });
+    }
+</script>
+
+
+
+
+
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+<div class="container">
+    <div class="col">
+        <div class="mr-sm-2 form-group">
+            <select class="form-control" id="searchId">
+                @foreach (var list in Model.searchM)
+                {
+
+                    <option value="@list.Id">@list.Name</option>
+                }
+            </select>
+            @*</div>*@
+            @*<div class="col-sm form-group">*@
+            <input type="search" id="searchText" class="form-control" placeholder="Search here" />
+            @*</div>
+                <div class="col-sm form-group">*@
+            <input type="submit" value="Search" id="searchButton" class="form-control" />
+        </div>
+        <div id="result" style="background-color:powderblue" class="form-control" ></div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        search();
+
+    })
+    $("#searchButton").click(function () {
+        search();
+    });
+    var search = function () {
+         $.ajax({
+             url: '@Url.Action("search", "Home")',
+
+
+            type: 'GET',
+             data: {
+                 Id: $('#searchId').val(),
+                 text: $('#searchText').val(),
+            },
+             success: function (data) {
+                 $('#result').html("");
+                 console.log("f");
+                 if (($('#searchId').val()) == 1) {
+                     $.each(data,
+                         function (index, item) {
+                             $.each(item.majors, function (index2, item2) {
+                                 console.log(item.facultyName + " " + item2.name);
+                                 $('#result').append('<p>' + item.facultyName + " " + item2.name + " " + '</p><a href="' + item2.rootLink + '">' + item2.rootLink + '</a>')
+                             });
+                         });
+                 };
+                 if (($('#searchId').val()) == 2) {
+                     $.each(data,
+                         function (index, item) {
+
+                             $.each(item.levels, function (index3, item3) {
+
+                                 $('#result').append('<p>' + item.faculty.facultyName + " " + item.name + " " + item3.termNum + " " + item3.takenYear + '</p><a href="' + item3.rootLink + '">' + item3.rootLink + '</a>')
+                             });
+
+                         });
+                 };
+
+                 if (($('#searchId').val()) == 4) {
+                     $.each(data,
+                         function (index, item) {
+
+                             $.each(item.level, function (index3, item3) {
+
+                                 $('#result').append('<p>' + item.level.major.faculty.facultyName + " " + item.level.major.name + " " + item.level.termNum + " " + item.courseName + " " + item.level.takenYear + '</p><a href="' + item.folderLink + '">' + item.folderLink + '</a>')
+                             });
+
+                         });
+                 };
+
+
+             },
+             error: function () {
+                 console.log("hi");
+            }
+           });
+
+    }
+</script>

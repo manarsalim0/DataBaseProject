@@ -1,0 +1,85 @@
+﻿@model ResourcesBankNew.Models.searchM
+
+@{ ViewData["Title"] = "Privacy Policy"; }
+<h1>@ViewData["Title"]</h1>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+<div class="container">
+    <div class="col">
+        <div class="mr-sm-2 form-group">
+            
+        @*</div>*@
+        @*<div class="col-sm form-group">*@
+            <input type="search" id="searchText" class="form-control" />
+        @*</div>
+        <div class="col-sm form-group">*@
+            <input type="submit" value="Search" id="searchButton" class="form-control" />
+        </div>
+        <div id="result" style="background-color:powderblue" class="form-control">result</div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        search();
+
+    })
+    $("#searchButton").click(function () {
+        search();
+    });
+    var search = function () {
+         $.ajax({
+             url: '@Url.Action("search", "Home")',
+
+
+            type: 'GET',
+             data: {
+                 Id: $('#searchId').val(),
+                 text: $('#searchText').val(),
+            },
+             success: function (data) {
+                 $('#result').html("");
+                 console.log("f");
+                 if (($('#searchId').val()) == 1) {
+                     $.each(data,
+                         function (index, item) {
+                             $.each(item.majors, function (index2, item2) {
+                                 console.log(item.facultyName + " " + item2.name);
+                                 $('#result').append('<p>' + item.facultyName + " " + item2.name + " " + '</p><a href="' + item2.rootLink + '">' + item2.rootLink + '</a>')
+                             });
+                         });
+                 };
+                 if (($('#searchId').val()) == 2) {
+                     $.each(data,
+                         function (index, item) {
+
+                             $.each(item.levels, function (index3, item3) {
+
+                                 $('#result').append('<p>' + item.faculty.facultyName + item.name + " " + item3.termNum + " " + item3.takenYear + '</p><a href="' + item3.rootLink + '">' + item3.rootLink + '</a>')
+                             });
+
+                         });
+                 };
+
+                 if (($('#searchId').val()) == 4) {
+                     $.each(data,
+                         function (index, item) {
+
+                             $.each(item.level, function (index3, item3) {
+
+                                 $('#result').append('<p>' + item.level.major.faculty.facultyName + item.level.major.name + " " + item.level.termNum + " " + item.courseName + " " + item.level.takenYear + '</p><a href="' + item.folderLink + '">' + item.folderLink + '</a>')
+                             });
+
+                         });
+                 };
+
+
+             },
+             error: function () {
+                 console.log("hi");
+            }
+           });
+
+    }
+</script>
+

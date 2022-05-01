@@ -1,0 +1,302 @@
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\appsettings.Development.json
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\appsettings.json
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\ResourcesBankNew.exe
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\ResourcesBankNew.deps.json
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\ResourcesBankNew.runtimeconfig.json
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\ResourcesBankNew.runtimeconfig.dev.json
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\ResourcesBankNew.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\ref\ResourcesBankNew.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\ResourcesBankNew.pdb
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\ResourcesBankNew.Views.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\ResourcesBankNew.Views.pdb
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\Humanizer.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DatabaseProject\ResourcesBankNew\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\ResourcesBankNew.csproj.AssemblyReference.cache
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\ResourcesBankNew.GeneratedMSBuildEditorConfig.editorconfig
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\ResourcesBankNew.AssemblyInfoInputs.cache
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\ResourcesBankNew.AssemblyInfo.cs
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\ResourcesBankNew.csproj.CoreCompileInputs.cache
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\ResourcesBankNew.MvcApplicationPartsAssemblyInfo.cache
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\ResourcesBankNew.RazorAssemblyInfo.cache
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\ResourcesBankNew.RazorAssemblyInfo.cs
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\staticwebassets\ResourcesBankNew.StaticWebAssets.Manifest.cache
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\staticwebassets\ResourcesBankNew.StaticWebAssets.xml
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\scopedcss\bundle\ResourcesBankNew.styles.css
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\ResourcesBankNew.TagHelpers.input.cache
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\ResourcesBankNew.TagHelpers.output.cache
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\ResourcesBankNew.RazorCoreGenerate.cache
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\ResourcesBankNew.RazorTargetAssemblyInfo.cache
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\ResourcesBankNew.RazorTargetAssemblyInfo.cs
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\ResourcesBankNew.Views.pdb
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\ResourcesBankNew.csproj.CopyComplete
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\ResourcesBankNew.dll
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\ref\ResourcesBankNew.dll
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\ResourcesBankNew.pdb
+D:\DatabaseProject\ResourcesBankNew\obj\Debug\net5.0\ResourcesBankNew.genruntimeconfig.cache
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\appsettings.Development.json
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\appsettings.json
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\ResourcesBankNew.exe
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\ResourcesBankNew.deps.json
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\ResourcesBankNew.runtimeconfig.json
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\ResourcesBankNew.runtimeconfig.dev.json
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\ResourcesBankNew.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\ref\ResourcesBankNew.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\ResourcesBankNew.pdb
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\ResourcesBankNew.Views.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\ResourcesBankNew.Views.pdb
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\Humanizer.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\ResourcesBankNew.csproj.AssemblyReference.cache
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\ResourcesBankNew.GeneratedMSBuildEditorConfig.editorconfig
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\ResourcesBankNew.AssemblyInfoInputs.cache
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\ResourcesBankNew.AssemblyInfo.cs
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\ResourcesBankNew.csproj.CoreCompileInputs.cache
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\ResourcesBankNew.MvcApplicationPartsAssemblyInfo.cache
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\ResourcesBankNew.RazorAssemblyInfo.cache
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\ResourcesBankNew.RazorAssemblyInfo.cs
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\staticwebassets\ResourcesBankNew.StaticWebAssets.Manifest.cache
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\staticwebassets\ResourcesBankNew.StaticWebAssets.xml
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\scopedcss\bundle\ResourcesBankNew.styles.css
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\ResourcesBankNew.TagHelpers.input.cache
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\ResourcesBankNew.TagHelpers.output.cache
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\ResourcesBankNew.RazorCoreGenerate.cache
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\ResourcesBankNew.RazorTargetAssemblyInfo.cache
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\ResourcesBankNew.RazorTargetAssemblyInfo.cs
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\ResourcesBankNew.Views.pdb
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\ResourcesBankNew.csproj.CopyComplete
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\ResourcesBankNew.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\ref\ResourcesBankNew.dll
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\ResourcesBankNew.pdb
+D:\DatabaseProject\ResourcesBankNew - Copy\obj\Debug\net5.0\ResourcesBankNew.genruntimeconfig.cache
+D:\DatabaseProject\ResourcesBankNew - Copy\bin\Debug\net5.0\libman.json
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\appsettings.Development.json
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\appsettings.json
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\libman.json
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ResourcesBankNew.exe
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ResourcesBankNew.deps.json
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ResourcesBankNew.runtimeconfig.json
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ResourcesBankNew.runtimeconfig.dev.json
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ResourcesBankNew.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ref\ResourcesBankNew.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ResourcesBankNew.pdb
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ResourcesBankNew.Views.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ResourcesBankNew.Views.pdb
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Humanizer.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\ResourcesBankNew.csproj.AssemblyReference.cache
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\ResourcesBankNew.GeneratedMSBuildEditorConfig.editorconfig
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\ResourcesBankNew.AssemblyInfoInputs.cache
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\ResourcesBankNew.AssemblyInfo.cs
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\ResourcesBankNew.csproj.CoreCompileInputs.cache
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\ResourcesBankNew.MvcApplicationPartsAssemblyInfo.cache
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\ResourcesBankNew.RazorAssemblyInfo.cache
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\ResourcesBankNew.RazorAssemblyInfo.cs
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\staticwebassets\ResourcesBankNew.StaticWebAssets.Manifest.cache
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\staticwebassets\ResourcesBankNew.StaticWebAssets.xml
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\scopedcss\bundle\ResourcesBankNew.styles.css
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\ResourcesBankNew.TagHelpers.input.cache
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\ResourcesBankNew.TagHelpers.output.cache
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\ResourcesBankNew.RazorCoreGenerate.cache
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\ResourcesBankNew.RazorTargetAssemblyInfo.cache
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\ResourcesBankNew.RazorTargetAssemblyInfo.cs
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\ResourcesBankNew.Views.pdb
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\ResourcesBankNew.csproj.CopyComplete
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\ResourcesBankNew.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\ref\ResourcesBankNew.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\ResourcesBankNew.pdb
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\ResourcesBankNew.genruntimeconfig.cache
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\System.Web.Mvc.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\System.Web.Razor.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\System.Web.Helpers.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\System.Web.WebPages.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\DatabaseProject\ResourcesBankNew - Copy - Copy\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
